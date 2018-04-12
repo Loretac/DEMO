@@ -1,2 +1,3 @@
 sample commit
 added a line
+git functions
